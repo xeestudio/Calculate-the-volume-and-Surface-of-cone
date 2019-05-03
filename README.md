@@ -1,8 +1,5 @@
 Calculate the Volume, Slant Height and Surface Area of a cone
 
-Exercise 3 : Calculate the volume and surface of a cone
-! Create a new directory ex005 in your home directory and move to that directory
-! Once there, start editing a new file cone.cpp with the nano editor.
 In this exercise, your program should take the vertical height and cone radius.With these values, it then calculates
 and displays the cone’s volume and surface.
 a) Step 1: First write code that calculates the volume of a cone. The formula for obtaining the volume is:
